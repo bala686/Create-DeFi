@@ -1,0 +1,306 @@
+DeFiOptions
+Opyn - Orderbook options protocol with power perpetuals and power perpetual strategies launching soon
+Trade
+Gamma Portal
+Opyn Analytics
+Opyn Developer Kit
+Hegic - Options with a liquidity pool
+Trade on v888
+Trade on v1
+v888 Whitepaper
+v1 Whitepaper
+Whiteheart - Onchain Hedging contracts using hegic
+Hedgey - Decentralized Orderbook options protocol for any pair of tokens (primarily long tail assets), targetted at Token Treasury & Community
+Create/Trade
+Buy
+Analytics
+Docs
+Github
+Dopex - Decentralized options pooled exchange on arbitrum
+Trade
+Docs
+Single Staking Vaults
+Curve Gauge War Options
+Primitive - Crypto Derivatives Without Oracles
+Trade
+Introducing Primitive
+Docs
+RMM SDK
+RMM Simulations
+RMM Examples
+In depth Primitive Overview
+Premia - Options AMM
+Trade
+Docs
+Premia volatility surface oracle
+Premia AMM
+Opium - Trustless derivative contracts
+Docs
+Siren - Polygon derivative trading with, leverage without liquidations
+Trade
+Siren V2
+Docs
+Pods - Options AMM
+Trade
+Docs
+Whitepaper
+Vega - Derivative layer 1 based on tendermint
+Trade
+Published Papers
+Research Forum
+Lyra - Options AMM protocol with a dynamic volatility input, on Optimism
+Trade
+Docs
+Whitepaper, good for understanding why dynamic volatility is important in an AMM
+PsyOptions - Solana american style options
+Trade
+Docs
+Zeta - Solana options and futures exchange
+Trade
+Docs
+The OMM
+Fuze SDK
+Arrow - Decomratize Option Market Making, Brokering, Clearing and Settlement
+Trade(TestNet)
+Litepaper
+Perpetuals
+Swaps
+DyDx - Perpetual Contracts on StarkWare
+Trade
+Docs
+Dashboard
+Perpetual Protocol - Arbitrum and Optimism Perpetual contracts
+Trade
+Trade on V2
+Docs
+Litepaper
+Deep dive into vAMM
+Perp V2 (Curie) Technical Details
+V2 (Curie) Docs
+DerivaDEX - DEX for trading derivatives
+Beta Trade
+FutureSwap - Perpetuals trading pools
+Trade
+Docs
+Kine Protocol - Peer to Peer derivative trading
+Trade
+Docs
+Dashboard
+Trade NFTs
+Mango - Solana lending, spot and perpetuals trading
+Trade
+Docs
+Dashboard
+Drift - Solana perpetual trading based on a vAMM
+Trade
+Docs
+Dashboard
+Hubble Exchange - Avalanche perpetual trading based on a vAMM with dynamic repegging
+Trade
+Whitepaper
+Tracer - Perpetual derivative pools
+Trade
+Docs
+Injective - Trade perpetual contracts
+Trade
+Docs
+Deri Protocol - Perpetual futures and everlasting options
+Trade
+Docs
+Whitepaper
+Whitepaper V3
+Pika - Perpetual trading on optimism
+Trade
+Docs
+MCCDEX - AMM perpetual trading with a shared liquidity model
+Trade
+Docs
+V3 AMM Design
+Shared Liquidity Model
+GMX - Arbitrum and Avalanche perpetual contracts
+Trade
+Docs
+Leaderboard
+Dashboard
+Cap Finance - Perpetual contracts on arbitrum
+Trade
+Docs
+Whitepaper
+Anon Farm - Permisonless perpetual contracts backed by uniswap v3 positions
+Trade
+Docs
+Options
+01 protocol - Solana everlasting options
+Trade
+Everlasting Options
+Binary Options
+Opyn
+Squeeth (ETH^2)
+Intro to Squeeth
+Crab Strategy
+Understanding Perpetual Vaults in DeFi: Options Strategies
+Squeeth insides volume 1: funding and volatility
+Volatility
+CVI - Tokenized volatility protocol
+Trade
+Docs
+Volmex - Tokenized volatility protocol
+Trade
+Docs
+Qilin - Decentralized volatility protocol
+Trade
+Docs
+Divergence Protocol - Trade volatility
+Trade
+Docs
+Composable Yield and Interest Rate Swaps
+Pendle - Trade and hedge future income
+Trade
+Docs
+Yield token capital efficiency
+Locking Yield with Pendle — Case Study #1, Locking Swap Fees — Case Study #2
+Pendle — Base Use Cases & Strategies
+Pendle AMM
+Element - Fixed rate lending protocol
+Trade
+Docs
+Whitepaper
+The Automated Fixed Rate Rebalancer
+De-Collateralize, an Alternative to Collateral Backed Loans
+Component Yield Token Compounding
+Prism - Split digital assets into yield and principal components
+Whitepaper
+Volt - Interest rate swap AMM
+Overview
+Litepaper
+Structured Products
+Antimatter - Principal protected structured products
+Trade
+Docs
+UXD - Algorithmic stablecoin backed by delta neutral positions on Solana
+Trade
+Docs
+Lemma - Basis trading protocol
+Trade
+Docs
+Option Vaults
+Ribbon - Option vault structured product protocol
+Trade
+Docs
+Friktion - Option vaults on Solana
+Trade
+Docs
+Thetanuts - Option Vaults for long tail assets
+Trade
+Docs
+StakeDAO - Portfolio manager with option vaults
+Trade
+Docs
+Katana - Yield generation protocol for Solana
+Trade
+Docs
+Staking Derivatives
+Lido - Liquidity for staked assets
+Trade
+Docs
+Dashboard
+Marinade - Solana staking derivative
+Trade
+Docs
+Stakewise - ETH2 liquid staking
+Trade
+Docs
+Rocketpool - ETH2 liquid staking
+Trade
+Docs
+Guides
+Solana native stake pool
+Claystack - Liquid staking for many assets
+Trade
+Overview
+NFT options and fractional shares
+Reading
+A Guide to Designing Effective NFT Launches
+Recurrently Issued Collectively Kept Shards
+Martingale Shares
+Floor Perps
+Projects
+Floor - Liquidity for NFTs
+Introducing FloorDAO
+Fraction
+Other
+UMA - Various structured and financial products
+Products
+Optimistic Oracle
+Long Short Tokens
+Call/Put Options
+Range Tokens
+KPI Options
+Success Tokens
+Docs
+Barnbridge - Tokenized risk protocol
+Products
+Smart Yield Bonds
+Smart Exposure
+Smart Alpha
+Docs
+Whitepaper
+Saffron - Traunched Risk
+Trade
+Docs
+Thales - Binary options trading
+Trade
+Docs
+Synthetix - Derivatives liquidity protocol
+Trade
+Docs
+Dashboard
+Kwenta - Derivatives trading, with zero slippage powered by synthetix
+Trade
+KIPs
+Synfutures - Future trading
+Trade
+Trade NFT Futures
+Dashboard
+Whitepaper
+Technical Paper
+Risedle - Leveraged Tokens protocol
+Trade Demo
+Docs
+Litepaper
+Overlay Protocol - Trade data streams
+Trade
+Docs
+Whitepaper
+Selected Reading
+Option AMMs
+Single-Sided Automated Market Maker for European Options
+Hegic Whitepaper
+Dynamic Curves for Decentralized Autonomous Cryptocurrency Exchanges
+Replicating Payoffs
+Replicating Market Makers
+The Replicating Portfolio of a Constant Product Market
+The Replicating Portfolio of a Constant Product Market with Bounded Liquidity
+Replicating Monotonic Payoffs Without Oracles
+Concentrated Liquidity and Option Payoffs
+Uniswap V3 LP Tokens as Perpetual Put and Call Options
+Pricing Uniswap v3 LP Positions: Towards a New Options Paradigm?
+How to Create Perpetual Options in Uniswap v3
+Synthetic Options and Short Calls in Uniswap V3
+vAMMs
+On vAMM's unnecessity for liquidity pool
+Perpetual Protocol Deep Dive into vAMM
+Drift Dynamic AMM
+Drift dAMM Deep Dive
+A reinforcement learning based approach to optimizing vAMMs
+Power Perpetuals, Everlasting Options, and Perpetual Swaps
+Cartoon Guide to Perps
+Everlasting Options
+Power Perpetuals
+Power Claims
+Raw Moments
+Unbundling Gamma - ETH^2-PERP Proposal
+Floor Perps
+Other
+A Protocol for Margining Derivatives
+An automatic market maker with a dynamic repeg
